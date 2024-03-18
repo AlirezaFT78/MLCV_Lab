@@ -1,5 +1,5 @@
 # Machine Learning and Computer Vision Laboratory
-In this repository, I share my codes for the MLCV Course of SUT EE department. The course's purpose is to get familiar with the implementation of ML and Image-Processing Algorithms using OpenCV Scikit-Learn.
+In this repository, I share my codes for the MLCV Course of SUT EE department. The course's purpose is to get familiar with the implementation of ML and Image-Processing Algorithms using OpenCV and Scikit-Learn.
 
 
 ## Datasets
